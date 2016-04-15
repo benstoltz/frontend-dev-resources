@@ -1,6 +1,19 @@
 # frontend-dev-resources
 List of useful resources for frontend developers
 
+- [Podcasts](#podcasts)
+- [Local Podcasts](#local-podcasts)
+- [Web Shows](#web-shows)
+- [Conferences](#conferences)
+- [Local Conferences](#local-conferences)
+- [Upcoming Confernces](#upcoming-conferences)
+- [Meetups](#meetups)
+- [Free Online Books](#free-online-books)
+- [Newsletters](#newsletters)
+- [Online Courses](#online-courses)
+- [Other Resources](#other-resources)
+- [Contribute](#contribute)
+
 ## Podcasts
 
 - [JavaScript Jabber](https://devchat.tv/js-jabber/) ([RSS](http://feeds.feedwrench.com/JavaScriptJabber.rss),  [iTunes](https://itunes.apple.com/us/podcast/javascript-jabber/id496893300?mt=2))
@@ -30,10 +43,16 @@ List of useful resources for frontend developers
 - [Reactive](http://reactive.audio/) ([RSS](https://simplecast.com/podcasts/1232/rss), [iTunes](https://itunes.apple.com/us/podcast/reactive/id1020286000))
 - [CodePen Radio](http://blog.codepen.io/radio/) ([RSS](http://blog.codepen.io/feed/podcast/), [iTunes](https://itunes.apple.com/us/podcast/codepen-radio/id824437159))
 - [React Native Radio](https://devchat.tv/react-native-radio) ([RSS](http://feeds.feedwrench.com/react-native-radio.rss), [iTunes](https://itunes.apple.com/us/podcast/react-native-radio/id1058647602))
+- [Real World Ember](http://www.real-world-ember.com/) ([RSS](https://simplecast.com/podcasts/1600/rss), [iTunes](https://itunes.apple.com/us/podcast/real-world-ember/id1082253744))
+- [Modern Web](http://modernweb.podbean.com/) ([RSS](http://modernweb.podbean.com/feed/), [iTunes](https://itunes.apple.com/us/podcast/modern-web/id1084236187))
+- [Ember Land](http://ember.land/) ([RSS](http://ember.land/?format=rss), [iTunes](https://itunes.apple.com/us/podcast/ember-land/id963237217?mt=2))
+- [Ember Weekend](https://emberweekend.com/episodes) ([RSS](https://emberweekend.com/feed.xml), [iTunes](https://itunes.apple.com/us/podcast/ember-weekend/id981719021))
+- [3 Minutes with Kent](https://www.briefs.fm/3-minutes-with-kent/) ([RSS](http://www.briefs.fm/3-minutes-with-kent.xml), [iTunes](https://itunes.apple.com/us/podcast/3-minutes-with-kent/id1082883103?mt=2))
 
 ## Local Podcasts
 
 - [RadioJS](https://radiojs.ru/) :ru: ([RSS](https://radiojs.ru/feed/podcast/), [iTunes](https://itunes.apple.com/ru/podcast/radio-js/id904938655?l=en))
+- [Веб-стандарты](http://web-standards.ru/) :ru: ([iTunes](https://itunes.apple.com/us/podcast/veb-standarty/id1080500016?mt=2))
 - [DevNaEstrada](http://devnaestrada.com.br/) 🇧🇷 ([RSS](http://devnaestrada.com.br/feed.xml), [iTunes](https://itunes.apple.com/br/podcast/devnaestrada-desenvolvimento/id997779431))
 
 ## Web Shows
@@ -45,9 +64,16 @@ List of useful resources for frontend developers
 - [Totally Tooling Tips](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
 - [Polycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo)
 - [readthesource](http://hangouts.readthesource.io/)
+- [Transmission](https://www.youtube.com/playlist?list=PLTUf4ytkmI8Q7cbf4J6aQEYun5g8fxt9B)
+- [DevTools Tonight](https://www.youtube.com/playlist?list=PLNYkxOF6rcICz2MF116mD8nn7yzAA0DtM)
 
 ## Conferences
 
+- [O'Reilly Fluent Conference 2016](https://www.youtube.com/playlist?list=PL_EOLDFKBK6oFFdw2DyigcEMI9bV7lyiI) (March 7 - 10, 2016)
+- [EnhanceConf 2016](https://www.youtube.com/playlist?list=PLXcpGvKha8IK5V8JpPU1majsBbAtM5wlT) (March 3 - 4, 2016)
+- [React.js Conf 2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY) (February 22 - 23, 2016)
+- [NG-NL 2016](https://www.youtube.com/channel/UCBLyK9z883f-nr_4KW6gngw) (February 17 - 18, 2016)
+- [Forward 4 Web Summit](https://www.youtube.com/playlist?list=PLndbWGuLoHebKI8krCzJU88Rf3TwhNZvH) (February 8 - 13, 2016)
 - [dotJS 2015](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG70G62mxQR0OC4GkUcNLRnC) (December 7, 2015)
 - [CSSDay.io 2015](https://www.youtube.com/playlist?list=PLfWvsMtBxHo1WqPrBwxq3zc2RDo5HkYwy) (December 5, 2015)
 - [dotCSS 2015](https://www.youtube.com/playlist?list=PLMW8Xq7bXrG5kujoYQdw94ip3cnV4WR59) (December 4, 2015)
@@ -61,6 +87,7 @@ List of useful resources for frontend developers
 - [EmpireNode 2015](https://www.youtube.com/playlist?list=PL31ehRjJCA6EB_ZI3YscW_UMP34XrguOt) (October 23, 2015)
 - [AngularConnect 2015](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g/videos) (October 20 - 21, 2015)
 - [Front Porch 2015](https://www.youtube.com/playlist?list=PLQ0rErbcJANqyar8u0GaUpLkjFrL-070T) (October 20, 2015)
+- [HTML5DevConf 2015](https://www.youtube.com/playlist?list=PLAIXSzgkhDs6uW2qPs_PjZ3bYWiZg-STU) (October 19 - 20, 2015)
 - [JSConf Colombia 2015](https://www.youtube.com/playlist?list=PL9pxtKnZMKEpVtBdhzgDSOCuCDDxsjnUd) (October 16 - 17, 2015)
 - [ConnectJS 2015](https://www.youtube.com/playlist?list=PLxhaQmHNqtY36A90dGoEhl2w-2m9xTGkG) (October 16 - 17, 2015)
 - [Falsy Values 2015](https://www.youtube.com/playlist?list=PLf8D7IhW472x1HRMShYMkZ0RMhGe9hK2f) (October 12 - 13, 2015)
@@ -123,6 +150,14 @@ List of useful resources for frontend developers
 
 - [A curated list of upcoming conferences](https://github.com/svenanders/upcoming-conferences)
 
+## Meetups
+
+- [TorontoJS](https://www.youtube.com/channel/UCfbBwpz9OFGf4IjHCTBFWVg)
+- [AngularJS Utah](https://www.youtube.com/channel/UCeSMaHaImUialB8tPU859XQ)
+- [AngularJS Boston](https://www.youtube.com/channel/UC-Wi4gQyRombx9PCA3T5eeQ)
+- [ViennaJS](https://www.youtube.com/channel/UChgAsJYZYZMFII4cvg8W09w)
+- [MelbCSS](https://www.youtube.com/channel/UCIpyTmd8_cCk26yzBaTIhUQ)
+
 ## Free Online Books
 
 - [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -139,6 +174,7 @@ List of useful resources for frontend developers
 - [Mostly Adequate Guide to Functional Programming by Brian Lonsdorf](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [JavaScript Allongé, the "Six" Edition by Reginald Braithwaite](https://leanpub.com/javascriptallongesix/read)
 - [SurviveJS - Webpack and React](http://survivejs.com/webpack_react/introduction/)
+- [Enduring CSS](http://ecss.io/)
 
 ## Newsletters
 
@@ -161,6 +197,23 @@ List of useful resources for frontend developers
 - [Ember Weekly](http://emberweekly.com/)
 - [Web Components Weekly](http://webcomponentsweekly.me/)
 - [jsTips](http://www.jstips.co/)
+- [Pony Foo Weekly](https://ponyfoo.com/weekly)
+- [Frontend BUZZ](https://frontend.buzz/)
+- [CSS Layout](http://csslayout.news/)
+- [Web Animation Weekly](http://webanimationweekly.com/)
+- [eWebDesign](https://ewebdesign.com/)
+- [Fullstack React](http://newsletter.fullstackreact.com/)
+- [The React Digest](https://www.getrevue.co/profile/the-react-digest)
+- [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
+
+## Online courses
+- [Codecademy](https://www.codecademy.com/)
+- [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
+- [Code School](https://www.codeschool.com/)
+- [Udacity](https://www.udacity.com/courses/web-development)
+- [freeCodeCamp](https://www.freecodecamp.com/)
+- [Udemy](https://www.udemy.com/)
+- [egghead](https://egghead.io/)
 
 ## Other Resources
 - [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
@@ -169,5 +222,5 @@ List of useful resources for frontend developers
 - [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 ## Contribute
-If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests! 
+If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests!
 You can do it directly through Github by clicking the "edit" button on this file.
